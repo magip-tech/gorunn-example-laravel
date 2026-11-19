@@ -1,4 +1,4 @@
-This is a [Laravel](https://laravel.com) running on ***Octane + Swoole*** example project to use with [`gorunn`](https://github.com/parapidcom/gorunn).
+This is a [Laravel](https://laravel.com) running on ***Octane + Swoole*** example project to use with [`gorunn`](https://github.com/magip-tech/gorunn).
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Create file **mylaravel.yaml** with contents :
 
 ```bash
 name: mylaravel
-git_repo: git@github.com:parapidcom/gorunn-example-laravel
+git_repo: git@github.com:magip-tech/gorunn-example-laravel
 type: php
 version: "8.3"
 endpoint: mylaravel.local.gorunn.io
